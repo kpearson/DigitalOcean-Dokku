@@ -11,7 +11,7 @@ Digital Ocean + Dokku deployment notes.
       
     However I needed to install `ssh-copy-id` command
     To do this I used
-    `https://www.digitalocean.com/community/articles/how-to-set-up-ssh-keys--2`
+    `https://www.digitalocean.com/community/articles/how-to-set-up-ssh-keys--2`,
     Followed by
     `sudo chmod +x /usr/local/bin/ssh-copy-id`
       
